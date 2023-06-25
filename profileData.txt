@@ -1,0 +1,1 @@
+{"wordCounts":{"udacity":809,"data":684,"with":544,"program":467,"learning":443},"urlsVisited":50}
