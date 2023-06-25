@@ -4,6 +4,9 @@ This folder contains the scaffolded project files to get a student started on th
 
 Welcome to UdaciSearch!
 Welcome to UdaciSearch!
+
+
+
 ![image](https://github.com/pkgltn/JavaParallelWebCrawler/assets/36137119/a59dc984-dc9e-4813-8973-a2d0894f0252)
 
 UdaciSearch
